@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/aromdarom/team/static/css/main.c8d16874.css",
-    "main.js": "/aromdarom/team/static/js/main.cb31ad9e.js",
-    "static/js/787.38c19021.chunk.js": "/aromdarom/team/static/js/787.38c19021.chunk.js",
-    "static/media/splash.gif": "/aromdarom/team/static/media/splash.c45ba029c5759ddab179.gif",
-    "static/media/or_bg.png": "/aromdarom/team/static/media/or_bg.0aaf1ee600054f8e41b8.png",
-    "static/media/or_btn1.png": "/aromdarom/team/static/media/or_btn1.098b3cb0138503969e36.png",
-    "static/media/or_btn2.png": "/aromdarom/team/static/media/or_btn2.c44475c86fca0bbf8d7b.png",
-    "index.html": "/aromdarom/team/index.html",
-    "main.c8d16874.css.map": "/aromdarom/team/static/css/main.c8d16874.css.map",
-    "main.cb31ad9e.js.map": "/aromdarom/team/static/js/main.cb31ad9e.js.map",
-    "787.38c19021.chunk.js.map": "/aromdarom/team/static/js/787.38c19021.chunk.js.map"
+    "main.css": "/team/static/css/main.cbce0df0.css",
+    "main.js": "/team/static/js/main.9d2edcdc.js",
+    "static/js/787.38c19021.chunk.js": "/team/static/js/787.38c19021.chunk.js",
+    "static/media/splash.gif": "/team/static/media/splash.c45ba029c5759ddab179.gif",
+    "static/media/or_bg.png": "/team/static/media/or_bg.0aaf1ee600054f8e41b8.png",
+    "static/media/or_btn1.png": "/team/static/media/or_btn1.098b3cb0138503969e36.png",
+    "static/media/or_btn2.png": "/team/static/media/or_btn2.c44475c86fca0bbf8d7b.png",
+    "index.html": "/team/index.html",
+    "main.cbce0df0.css.map": "/team/static/css/main.cbce0df0.css.map",
+    "main.9d2edcdc.js.map": "/team/static/js/main.9d2edcdc.js.map",
+    "787.38c19021.chunk.js.map": "/team/static/js/787.38c19021.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8d16874.css",
-    "static/js/main.cb31ad9e.js"
+    "static/css/main.cbce0df0.css",
+    "static/js/main.9d2edcdc.js"
   ]
 }
